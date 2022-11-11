@@ -64,7 +64,9 @@ module.exports = {
     chrome: 'readonly',
     Cesium: 'readonly',
     defineEmits: 'readonly',
-    defineProps: 'readonly'
+    defineProps: 'readonly',
+    uni:'readonly',
+    wx:'readonly'
   },
   // add your custom rules here
   rules: {
